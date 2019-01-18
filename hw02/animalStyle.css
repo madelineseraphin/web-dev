@@ -1,0 +1,31 @@
+.red {
+	color: red;
+}
+.orange {
+	color: orange;
+}
+.yellow {
+	color: yellow;
+}
+.green {
+	color: green;
+}
+.blue {
+	color: blue;
+}
+.purple {
+	color: purple;
+}
+.links {
+	margin: 10px 0 10px 0;
+}
+table, th, td {
+	border: 1px solid black;
+	text-align: center;
+}
+th, td {
+	padding: 10px;
+}
+img {
+	height: 100px;
+}
